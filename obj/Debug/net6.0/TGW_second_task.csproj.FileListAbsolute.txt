@@ -1,0 +1,30 @@
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\bin\Debug\net6.0\TGW_second_task.exe
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\bin\Debug\net6.0\TGW_second_task.deps.json
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\bin\Debug\net6.0\TGW_second_task.runtimeconfig.json
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\bin\Debug\net6.0\TGW_second_task.dll
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\bin\Debug\net6.0\TGW_second_task.pdb
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.csproj.AssemblyReference.cache
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.AssemblyInfoInputs.cache
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.AssemblyInfo.cs
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.csproj.CoreCompileInputs.cache
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.dll
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\refint\TGW_second_task.dll
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.pdb
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\TGW_second_task.genruntimeconfig.cache
+C:\Users\Inga\Desktop\BIT\Interviu uzduotys\TGW\TGW second task\obj\Debug\net6.0\ref\TGW_second_task.dll
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\bin\Debug\net6.0\TGW_second_task.exe
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\bin\Debug\net6.0\TGW_second_task.deps.json
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\bin\Debug\net6.0\TGW_second_task.runtimeconfig.json
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\bin\Debug\net6.0\TGW_second_task.dll
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\bin\Debug\net6.0\TGW_second_task.pdb
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.csproj.AssemblyReference.cache
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.AssemblyInfoInputs.cache
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.AssemblyInfo.cs
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.csproj.CoreCompileInputs.cache
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.dll
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\refint\TGW_second_task.dll
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.pdb
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\TGW_second_task.genruntimeconfig.cache
+C:\Users\Inga\Documents\GitHub\TGW_Interview_Task\obj\Debug\net6.0\ref\TGW_second_task.dll
